@@ -1,3 +1,6 @@
+**Please note: since January 2022, this demo is now hosted at [https://github.com/meilisearch/demos/tree/main/src/finding-rubygems](https://github.com/meilisearch/demos/tree/main/src/finding-rubygems)**
+
+
 # MeiliSearch finds RubyGems
 
 A [new experience of search](https://rubygems.meilisearch.com) to find your favorite RubyGems 🎉
